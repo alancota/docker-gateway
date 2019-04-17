@@ -5,7 +5,7 @@ bin-release/
 [Bb]in/
 
 # License files
-ssg_license.xml
+license/*
 
 # Executables
 *.swf
