@@ -2,7 +2,7 @@
 
 This repository contains some of my labs and tests using the Broadcom Layer7 API Gateway docker form factor.
 
-##Getting Started
+## Getting Started
 
 As of this version, you're going to find 3 docker-compose files as follows:
 
